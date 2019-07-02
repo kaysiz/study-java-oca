@@ -1,6 +1,6 @@
 # Java OCA Study - [Whizlab](https://www.whizlabs.com)
 
-OCAJP 8 Training Course - 1Z0808
+OCAJP 8 Training Course - 1Z0-808
 
 ## Objectives
 
