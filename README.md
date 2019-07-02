@@ -11,6 +11,11 @@ OCAJP 8 Training Course - 1Z0-808
    - [ ] Import other Java packages to make them accessible in your code
    - [ ] Compare and contrast the features and components of Java
 2. ### Working with Java Data Types
+   - [ ] Declare and initialize variables
+   - [ ] Diffentiate between object reference and primitive variables
+   - [ ] Know how to read and write to object fields
+   - [ ] Explain an Object Lifecycle
+   - [ ] Develop code that uses wrapper classes
 3. ### Using Operators and Decision Constructs
 4. ### Creating and Using Arrays
 5. ### Using Loop Constructs
